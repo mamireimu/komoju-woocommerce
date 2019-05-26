@@ -152,19 +152,19 @@ msgstr "Pay-easy を許可"
 
 #: includes/settings-komoju.php:74
 msgid "Komoju merchant ID"
-msgstr "Komoju マーチャントID"
+msgstr "Komoju クライアント UUID"
 
 #: includes/settings-komoju.php:76
 msgid "Please enter your Komoju account ID."
-msgstr "Komoju のアカウントID を入力してください"
+msgstr "Komoju の設定にあるクライアント UUID を入力してください"
 
 #: includes/settings-komoju.php:81
 msgid "Secret Key from Komoju"
-msgstr "Komoju シークレットキー"
+msgstr "Komoju 非公開鍵"
 
 #: includes/settings-komoju.php:83
 msgid "Please enter your Komoju secret key."
-msgstr "Komoju のシークレットキーを入力してください"
+msgstr "Komoju の設定にある非公開鍵を入力してください"
 
 #: includes/settings-komoju.php:88
 msgid "Callback Url"
